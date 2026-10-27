@@ -1,5 +1,7 @@
 # wat we building?
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/wat-we-building/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/wat-we-building)
+
 Five questions take a first-time builder from a finish line to a brief, one HTML app, a proof walk and a scoped repair.
 
 Live frontend: https://aunysillyme.github.io/wat-we-building/
